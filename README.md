@@ -1,6 +1,6 @@
 # flutter_weather_bloc
 
-A new Flutter project.
+A new Flutter project. : Github Resource
 
 ## Samples
 
